@@ -1,0 +1,17 @@
+{
+    "name": "lobeliatechnology/inspire",
+    "autoload": {
+        "psr-4": {
+            "Lobeliatechnology\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LobeliaTechnology",
+            "email": "sixlobeliatechnology@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
